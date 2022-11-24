@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **KasiaWozniak/KasiaWozniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: i'm out of reach
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i can't code :( (yet)
--->
+
